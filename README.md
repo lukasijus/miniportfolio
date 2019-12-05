@@ -1,2 +1,2 @@
 # lukas.github.io pages
-https://lukasijus.github.io/lukaswebappdev
+https://lukasijus.github.io/miniportfolio/
